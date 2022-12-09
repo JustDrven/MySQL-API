@@ -2,6 +2,12 @@
 
 <hr>
 
+
+# Downloads:
+
+- [Download releases](https://github.com/JustDrven/MySQL-API/releases)
+- [GitHub](https://github.com/JustDrven/MySQL-API/)
+
 ## Using API:
 
 ```sh
