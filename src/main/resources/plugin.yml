@@ -1,0 +1,4 @@
+name: MySQL
+version: '${version}'
+main: org.midecon.mysql.Main
+authors: [  Midecon, Drven ]
